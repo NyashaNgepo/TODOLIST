@@ -1,0 +1,41 @@
+.heading-1{
+    color: blue;
+    padding-top: 10px;
+    text-align: center;
+}
+body{
+    background-color:lightgray;
+}
+.container{
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 10px;
+    
+}
+.button-1{
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    height:4px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0;
+    border-radius: 2px;
+    align-self: center;
+    width: 100px;
+    
+}
+.user-input-box{
+    margin-top: 10px;
+
+    
+}
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    width: 300px;
+  }
+  
