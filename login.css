@@ -1,0 +1,33 @@
+.content{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+      
+}
+.heading-2{
+    text-align: center;
+    margin-top: 85px;
+}
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    width: 300px;
+  }
+ .login-btn{
+    height: 30px;
+    background-color: rgb(12, 133, 173);
+    color: white;
+    border-radius: 4px;
+    width: 60px;
+    
+ }
+ .pasword{
+    height: 35px;
+ }
+ body{
+    background-color: #83c5be;
+ }
