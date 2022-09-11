@@ -36,4 +36,12 @@ input[type=text] {
     box-sizing: border-box;
     width: 300px;
   }
-  
+  .form{
+    background-color: #fff;
+    background-color: #fff;
+    width: 375px;
+    margin-left: 37%;
+    height: 600px;
+    margin-bottom: 400px;
+}
+ 
